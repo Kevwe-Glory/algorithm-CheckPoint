@@ -1,0 +1,6 @@
+Create a function that takes a sentence as an input and iterates through each character of the sentence and counts number of words in the sentence, and the number of vowels in the sentence.
+using the 'const' keyword create an array of vowel
+create a for loop to iterate the vowel array.
+create an if else statement that counts the words in the sentence
+create an if in to check for vowel in the sentence
+Return result
